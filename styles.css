@@ -1,0 +1,13 @@
+body {
+    background: url(test1.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero {
+    color: #fff;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 75%;
+    letter-spacing: 0.5em;
+    line-height: 1.2em;
+}
